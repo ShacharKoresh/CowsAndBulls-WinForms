@@ -10,6 +10,7 @@ According to that chose, the program creats the beggining board that look as fol
 - To the right of each row there is a button that the user can click on in order to submit his current guess
 - A group of 4 buttons that show the result of each guess
 
+![beggining stage board](https://user-images.githubusercontent.com/77329952/104428350-0eae8480-558d-11eb-8482-ab83848acb2e.jpg)
 
 
 
@@ -17,7 +18,3 @@ According to that chose, the program creats the beggining board that look as fol
 
 
 The game is designed in a way that events are raised from the Logic Layer and handled in the UI layer in order to update the display.
-
-Screenshots
-
-Beggining stage of the board
