@@ -1,5 +1,5 @@
 # Cows And Bulls
-A a basic Cows and Bulls Windows desktop application using .NET WinForms.
+A basic Cows and Bulls Windows desktop application using .NET WinForms.
 
 The program allows the user to play against the computer and try to find it's guess.
 
@@ -22,8 +22,4 @@ Only after selecting colors for all 4 boxes, the arrow button is available for c
 
 
 
-
-
-
-
-The game is designed in a way that events are raised from the Logic Layer and handled in the UI layer in order to update the display.
+The game is designed in a way that events are raised from the UI layer, proccesed in the logic layer, and the board is beeing updated according to the changes.
